@@ -20,8 +20,8 @@ https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoC
   </a>
 </div>
   
-  </div>
-
-https://komarev.com/ghpvc/?username=joehurdles
+  https://komarev.com/ghpvc/?username=joehurdles
 
 <img src="https://komarev.com/ghpvc/?username=joehurdles&style=flat-square&color=blue" alt=""/>
+  
+  </div>
