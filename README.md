@@ -12,7 +12,7 @@ https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=f
 https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white -->
 
 <div id="badges">
-  <a href="www.linkedin.com/in/joseph-asare-526913203/">
+  <a href="https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/JoeAsare10">
