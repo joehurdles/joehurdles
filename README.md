@@ -25,7 +25,7 @@ https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoC
 <img src="https://komarev.com/ghpvc/?username=joehurdles&style=flat-square&color=blue" alt=""/>
   
   </div>
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -42,3 +42,5 @@ https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoC
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
 </div>
+
+### :fire: My Stats :
