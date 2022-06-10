@@ -4,12 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-Label-Color
-
 https://img.shields.io/badge/LinkedIn-blue
-
-logo={your social network icon name}
-logoColor={color of the icon}
 
 https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
 https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
@@ -30,6 +25,6 @@ https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoC
   </a>
 </div>
 
-https://komarev.com/ghpvc/?username=your-github-username
+https://komarev.com/ghpvc/?username=joehurdles
 
 <img src="https://komarev.com/ghpvc/?username=joehurdles&style=flat-square&color=blue" alt=""/>
