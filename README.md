@@ -34,7 +34,7 @@ I am a Full Stack Developer but mostly work on frontEnd <img src="https://media.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-JoeAsare10-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 
 
 ### :hammer_and_wrench: Languages and Tools :
