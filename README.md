@@ -45,7 +45,7 @@ https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoC
 
 ### :fire: My Stats :
 
-  https://github-readme-streak-stats.herokuapp.com/?user=joehurdles
+<!--   https://github-readme-streak-stats.herokuapp.com/?user=joehurdles -->
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joehurdles&theme=dark&background=000000)](https://git.io/streak-stats)
 
