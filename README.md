@@ -19,24 +19,6 @@
   
   </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-<div id="badges">
-  <a href="https://www.linkedin.com/feed/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/JoeAsare10">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-  
-<!--   https://komarev.com/ghpvc/?username=joehurdles -->
-
-<img src="https://komarev.com/ghpvc/?username=joehurdles&style=flat-square&color=blue" alt=""/>
-  
-  </div>
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer but mostly work on frontEnd <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
